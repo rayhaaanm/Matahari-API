@@ -34,7 +34,7 @@ Matahari API is a web scrapper for the www.matahari.com website to get specific 
 
 If you want to run this API Server on your local machine, you need to do this steps:
 
-- First, clone this repository. `git clone https://github.com/rayhaaanm/matahari-api.git`
+- First, clone this repository. `git clone https://github.com/rayhaaanm/Matahari-API.git`
 - Second, open terminal and go to this project's root directory.
 - Third, type `npm ci` in your terminal and hit enter button.
 - fourth, type `npm run start` in your terminal and hit enter button.
